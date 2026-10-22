@@ -21,3 +21,8 @@ Warm ivory, forest green and sage; responsive teacher-first workspace. All names
 
 ## Pilot institution identity
 Owner-supplied Halaqah Al-Quran As-Sa’adah logo is retained intact as `dist/institution-logo.jpg`. It identifies the pilot institution; Halaqah remains the product name. The Tajwid / Tasmik / Talaqqi wording is part of the supplied logo and does not add new functional modules.
+
+## Dashboard refresh — 22 October 2026
+Reference-led workspace with floating header, compact icon rail, segmented student filters, responsive bottom navigation, actual session completion dial, subtle page transitions and reduced-motion support. No invented trend or performance metrics are displayed. Teacher save-and-next, guardian reports and admin templates retain the existing local-data model.
+
+Feather Icons 4.29.2 is bundled locally under MIT; see `dist/feather-LICENSE.txt`.
